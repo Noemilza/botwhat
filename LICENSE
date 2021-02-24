@@ -1,0 +1,202 @@
+
+                                 Licença Apache
+                           Versão 2.0, janeiro de 2004
+                        http://www.apache.org/licenses/
+
+   TERMOS E CONDIÇÕES DE USO, REPRODUÇÃO E DISTRIBUIÇÃO
+
+   1. Definições.
+
+      "Licença" significa os termos e condições de uso, reprodução,
+      e distribuição conforme definido pelas Seções 1 a 9 deste documento.
+
+      "Licenciante" significa o proprietário dos direitos autorais ou entidade autorizada por
+      o proprietário dos direitos autorais que está concedendo a licença.
+
+      "Pessoa Jurídica" significa a união da entidade atuante e todos
+      outras entidades que controlam, são controladas por ou estão em comum
+      controle com essa entidade. Para os fins desta definição,
+      "controle" significa (i) o poder, direto ou indireto, de fazer com que o
+      direção ou gestão de tal entidade, seja por contrato ou
+      caso contrário, ou (ii) propriedade de cinquenta por cento (50%) ou mais do
+      ações em circulação, ou (iii) usufruto de tal entidade.
+
+      "Você" (ou "Seu") significa uma pessoa física ou jurídica
+      exercer as permissões concedidas por esta Licença.
+
+      A forma "Fonte" significa a forma preferencial para fazer modificações,
+      incluindo, mas não se limitando ao código-fonte do software, documentação
+      fonte e arquivos de configuração.
+
+      Forma de "objeto" significa qualquer forma resultante de mecânica
+      transformação ou tradução de uma forma de origem, incluindo, mas
+      não se limitando a código-objeto compilado, documentação gerada,
+      e conversões para outros tipos de mídia.
+
+      "Trabalho" significa o trabalho de autoria, seja na Fonte ou
+      Formulário de objeto, disponibilizado sob a Licença, conforme indicado por um
+      aviso de direitos autorais que está incluído ou anexado ao trabalho
+      (um exemplo é fornecido no Apêndice abaixo).
+
+      "Obras Derivadas" significa qualquer trabalho, seja na Fonte ou no Objeto
+      forma, que é baseada (ou derivada) da Obra e para a qual o
+      revisões editoriais, anotações, elaborações ou outras modificações
+      representam, como um todo, uma obra de autoria original. Para os propósitos
+      desta Licença, Trabalhos Derivados não devem incluir trabalhos que permanecem
+      separáveis ​​de, ou simplesmente vincular (ou vincular pelo nome) às interfaces de,
+      o Trabalho e Obras Derivadas do mesmo.
+
+      "Contribuição" significa qualquer trabalho de autoria, incluindo
+      a versão original da Obra e quaisquer modificações ou adições
+      a esse Trabalho ou Obras Derivadas do mesmo, que é intencionalmente
+      submetido ao Licenciante para inclusão na Obra pelo proprietário dos direitos autorais
+      ou por um indivíduo ou entidade legal autorizada a apresentar em nome de
+      o proprietário dos direitos autorais. Para os fins desta definição, "submetido"
+      significa qualquer forma de comunicação eletrônica, verbal ou escrita enviada
+      ao Licenciante ou seus representantes, incluindo, mas não se limitando a
+      comunicação em listas de mala direta, sistemas de controle de código-fonte,
+      e sistemas de rastreamento de problemas que são gerenciados por, ou em nome de, o
+      Licenciante com o objetivo de discutir e melhorar a Obra, mas
+      excluindo comunicação claramente marcada ou de outra forma
+      designado por escrito pelo proprietário dos direitos autorais como "Não é uma contribuição."
+
+      "Colaborador" significa o Licenciante e qualquer pessoa física ou jurídica
+      em nome de quem uma contribuição foi recebida pelo Licenciante e
+      subsequentemente incorporado na Obra.
+
+   2. Concessão de licença de direitos autorais. Sujeito aos termos e condições de
+      esta Licença, cada Colaborador concede a Você uma perpétua,
+      mundial, não exclusivo, gratuito, livre de royalties, irrevogável
+      licença de direitos autorais para reproduzir, preparar trabalhos derivados de,
+      exibir publicamente, executar publicamente, sublicenciar e distribuir o
+      Trabalho e tais Obras Derivadas na forma de Fonte ou Objeto.
+
+   3. Concessão de licença de patente. Sujeito aos termos e condições de
+      esta Licença, cada Colaborador concede a Você uma perpétua,
+      mundial, não exclusivo, gratuito, livre de royalties, irrevogável
+      (exceto conforme indicado nesta seção) licença de patente para fazer, ter feito,
+      usar, oferecer para vender, vender, importar e de outra forma transferir a Obra,
+      onde tal licença se aplica apenas às reivindicações de patentes licenciáveis
+      por tal Colaborador que é necessariamente infringido por seu
+      Contribuição (ões) isoladamente ou por combinação de sua (s) Contribuição (ões)
+      com a Obra à qual tal Contribuição (ões) foi submetida. Se vocês
+      instituir litígios de patentes contra qualquer entidade (incluindo um
+      reclamação cruzada ou reconvenção em uma ação judicial), alegando que o Trabalho
+      ou uma contribuição incorporada ao trabalho constitui
+      ou violação de patente por contribuição, então quaisquer licenças de patente
+      concedida a você sob esta licença para esse trabalho deve terminar
+      na data em que o litígio foi arquivado.
+
+   4. Redistribuição. Você pode reproduzir e distribuir cópias do
+      Trabalho ou Obras Derivadas do mesmo em qualquer meio, com ou sem
+      modificações, e na forma de Fonte ou Objeto, desde que Você
+      atender às seguintes condições:
+
+      (a) Você deve dar a quaisquer outros destinatários da Obra ou
+          Derivative Works uma cópia desta Licença; e
+
+      (b) Você deve fazer com que todos os arquivos modificados contenham avisos em destaque
+          informando que Você alterou os arquivos; e
+
+      (c) Você deve reter, na forma de fonte de quaisquer Obras Derivadas
+          que você distribui, todos os direitos autorais, patentes, marcas registradas e
+          avisos de atribuição da forma de origem da obra,
+          excluindo os avisos que não pertencem a qualquer parte do
+          as Obras Derivadas; e
+
+      (d) Se a Obra incluir um arquivo de texto de "AVISO" como parte de seu
+          distribuição, então quaisquer Obras Derivadas distribuídas por Você devem
+          inclua uma cópia legível dos avisos de atribuição contidos
+          dentro de tal arquivo de AVISO, excluindo aqueles avisos que não
+          pertencem a qualquer parte das Obras Derivadas, em pelo menos uma
+          dos seguintes locais: em um arquivo de texto AVISO distribuído
+          como parte das Obras Derivadas; dentro do formulário de origem ou
+          documentação, se fornecida juntamente com as Obras Derivadas; ou,
+          dentro de uma exibição gerada pelas Obras Derivadas, se e
+          onde quer que tais avisos de terceiros normalmente apareçam. O conteúdo
+          do arquivo AVISO são apenas para fins informativos e
+          não modifique a Licença. Você pode adicionar sua própria atribuição
+          avisos dentro de obras derivadas que você distribui, juntamente
+          ou como um adendo ao texto do AVISO do Trabalho, desde que
+          que tais avisos de atribuição adicionais não podem ser interpretados
+          como modificação da Licença.
+
+      Você pode adicionar sua própria declaração de direitos autorais às suas modificações e
+      pode fornecer termos e condições de licença adicionais ou diferentes
+      para uso, reprodução ou distribuição de Suas modificações, ou
+      para quaisquer Obras Derivadas como um todo, desde que Seu uso,
+      reprodução e distribuição da Obra em conformidade com
+      as condições estabelecidas nesta Licença.
+
+   5. Envio de contribuições. A menos que você declare explicitamente o contrário,
+      qualquer contribuição enviada intencionalmente para inclusão na Obra
+      por Você para o Licenciante deve estar sob os termos e condições de
+      esta Licença, sem quaisquer termos ou condições adicionais.
+      Não obstante o acima exposto, nada aqui deve substituir ou modificar
+      os termos de qualquer contrato de licença separado que você possa ter executado
+      com o Licenciante em relação a essas contribuições.
+
+   6. Marcas registradas. Esta licença não concede permissão para usar o comércio
+      nomes, marcas registradas, marcas de serviço ou nomes de produtos do Licenciante,
+      exceto conforme necessário para uso razoável e habitual na descrição do
+      origem da Obra e reprodução do conteúdo do arquivo de AVISO.
+
+   7. Isenção de responsabilidade de garantia. A menos que exigido pela lei aplicável ou
+      acordado por escrito, o Licenciante fornece o Trabalho (e cada
+      O Colaborador fornece suas contribuições) em uma BASE "COMO ESTÃO",
+      SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, sejam expressas ou
+      implícito, incluindo, sem limitação, quaisquer garantias ou condições
+      de TÍTULO, NÃO VIOLAÇÃO, COMERCIABILIDADE ou ADEQUAÇÃO A
+      PROPÓSITO PARTICULAR. Você é o único responsável por determinar o
+      adequação de usar ou redistribuir o Trabalho e assumir qualquer
+      riscos associados ao seu exercício de permissões sob esta Licença.
+
+   8. Limitação de responsabilidade. Em nenhum caso e sob nenhuma teoria legal,
+      seja por ato ilícito (incluindo negligência), contrato ou de outra forma,
+      a menos que exigido pela lei aplicável (como deliberado e grosseiramente
+      atos negligentes) ou acordados por escrito, qualquer Colaborador será
+      responsável por você por danos, incluindo qualquer direto, indireto, especial,
+      danos incidentais ou conseqüenciais de qualquer caráter que surjam como um
+      resultado desta Licença ou do uso ou incapacidade de usar o
+      Trabalho (incluindo, mas não se limitando a danos por perda de reputação,
+      paralisação do trabalho, falha ou mau funcionamento do computador, ou todo e qualquer
+      outros danos ou perdas comerciais), mesmo se tal Colaborador
+      foi avisado da possibilidade de tais danos.
+
+   9. Aceitando garantia ou responsabilidade adicional. Enquanto redistribui
+      o Trabalho ou Obras Derivadas do mesmo, Você pode optar por oferecer,
+      e cobrar uma taxa pela aceitação de suporte, garantia, indenização,
+      ou outras obrigações de responsabilidade e / ou direitos consistentes com este
+      Licença. No entanto, ao aceitar tais obrigações, você só pode agir
+      em seu próprio nome e por sua exclusiva responsabilidade, não em nome
+      de qualquer outro Colaborador, e apenas se você concordar em indenizar,
+      defender e isentar de responsabilidade cada Colaborador por qualquer responsabilidade
+      incorridos por, ou reclamações contra, tal Colaborador por motivo
+      de aceitar qualquer garantia ou responsabilidade adicional.
+
+   FIM DOS TERMOS E CONDIÇÕES
+
+   APÊNDICE: Como aplicar a Licença Apache ao seu trabalho.
+
+      Para aplicar a Licença Apache ao seu trabalho, anexe o seguinte
+      aviso padrão, com os campos entre colchetes "[]"
+      substituídos por suas próprias informações de identificação. (Não inclua
+      os colchetes!) O texto deve ser colocado no campo apropriado
+      sintaxe de comentário para o formato de arquivo. Também recomendamos que um
+      arquivo ou nome da classe e descrição do propósito a ser incluído no
+      mesma "página impressa" do aviso de direitos autorais para mais fácil
+      identificação em arquivos de terceiros.
+
+   Copyright [aaaa] [nome do proprietário dos direitos autorais]
+
+   Licenciado sob a Licença Apache, Versão 2.0 (a "Licença");
+   você não pode usar este arquivo, exceto em conformidade com a Licença.
+   Você pode obter uma cópia da Licença em
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   A menos que exigido pela lei aplicável ou acordado por escrito, software
+   distribuído sob a Licença é distribuído "COMO ESTÁ",
+   SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas.
+   Consulte a Licença para as permissões específicas que regem o idioma e
+   limitações sob a Licença.
